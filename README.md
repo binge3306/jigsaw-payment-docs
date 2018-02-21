@@ -1,2 +1,2 @@
 # jigsaw-payment-docs
-jigsaw-payment项目的文档，包括开发者手册和使用者手册。 绑定到域名doc.jigsaw.lixf.cn
+由于域名的原因，本项目转移到 https://github.com/cocolian/cocolian-docs 。 本项目将停止更新，请fork新项目。谢谢 
